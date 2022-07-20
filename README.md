@@ -1,6 +1,6 @@
 # Library-Management-System
 
-A backend system consisting of a monolithic spring boot service for proper management of college library.
+A backend system consisting of a spring boot services for proper management of college library.
 
 *) Service exposes CRUD APIs for entities in the system.
 
